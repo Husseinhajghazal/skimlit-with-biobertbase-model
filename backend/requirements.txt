@@ -1,0 +1,9 @@
+fastapi==0.115.2
+uvicorn==0.32.0
+tensorflow==2.17.0
+transformers==4.51.3
+scikit-learn==1.6.1
+numpy==1.26.4
+python-multipart==0.0.12
+tf-keras==2.17.0
+nltk==3.9.1

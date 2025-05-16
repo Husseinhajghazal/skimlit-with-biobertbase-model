@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Brief Bot",
+  "version": "1.0",
+  "description": "Summarizes scientific text using BioBERT model.",
+  "permissions": ["contextMenus", "storage", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
