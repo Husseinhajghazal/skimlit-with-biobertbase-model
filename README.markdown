@@ -1,5 +1,7 @@
 # Brief Bot
 
+[![Brief Bot](https://img.youtube.com/vi/DqRB0gNcvPs/0.jpg)](https://www.youtube.com/watch?v=DqRB0gNcvPs)
+
 ## Overview
 
 Brief Bot Summarizer is a Chrome extension paired with a FastAPI backend that summarizes scientific texts, such as medical abstracts, by identifying key sentences (e.g., objectives, results). It leverages a BioBERT-based model to classify sentences, providing concise summaries for researchers and students. The extension features a user-friendly popup with a typewriter animation, spinner, and slide-in effects.
