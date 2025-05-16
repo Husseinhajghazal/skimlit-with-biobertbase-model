@@ -1,6 +1,7 @@
 # Brief Bot
 
-[![Brief Bot](https://img.youtube.com/vi/DqRB0gNcvPs/0.jpg)](https://www.youtube.com/watch?v=DqRB0gNcvPs)
+What the video to see how it works
+[![Brief Bot](https://img.youtube.com/vi/DqRB0gNcvPs/1.jpg)](https://www.youtube.com/watch?v=DqRB0gNcvPs)
 
 ## Overview
 
