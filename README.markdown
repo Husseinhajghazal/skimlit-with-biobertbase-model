@@ -2,10 +2,7 @@
 
 ## What the video to see how it works
 
-<video controls>
-  <source src="https://youtu.be/DqRB0gNcvPs" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Video](https://youtu.be/DqRB0gNcvPs)
 
 ## Overview
 
