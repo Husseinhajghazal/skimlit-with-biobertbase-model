@@ -2,7 +2,10 @@
 
 ## What the video to see how it works
 
-[![Brief Bot](https://img.youtube.com/vi/DqRB0gNcvPs/1.jpg)](https://www.youtube.com/watch?v=DqRB0gNcvPs)
+<video controls>
+  <source src="https://youtu.be/DqRB0gNcvPs" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Overview
 
