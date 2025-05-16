@@ -1,6 +1,6 @@
 # Brief Bot
 
-## What the video to see how it works
+## Watch the video to see how it works
 
 [Watch Video](https://youtu.be/DqRB0gNcvPs)
 
